@@ -4,12 +4,12 @@
 O objetivo deste projeto foi replicar a página inicial do Github, consumindo a API fornecido por eles para obter os dados dos usuários de forma dinâmica e atualizada.
 
 # Instale as dependências com npm ou yarn
-$ npm i
+$ npm install
 
 # Inicie a aplicação
 $ npm run start
 ```
-
+```
 ## :computer: Tecnologias
 - [React](https://pt-br.reactjs.org/)
 - [Typescript](https://pt-br.reactjs.org/)
@@ -29,6 +29,6 @@ $ npm run start
 ## :construction: Próximas features
 - [ ] Utiliza a API do Github em Graphql
 - [ ] Utilizar SWR
- 
+ ```
 ## :link: Referências
 [Recriando interface do Github com ReactJS | UI Clone](https://www.youtube.com/watch?v=iLEbGQXsg3k)
