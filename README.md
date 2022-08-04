@@ -3,25 +3,6 @@
 ## :page_facing_up: Sobre
 O objetivo deste projeto foi replicar a página inicial do Github, consumindo a API fornecido por eles para obter os dados dos usuários de forma dinâmica e atualizada.
 
-## :camera: Preview
-
-### Página da aplicação
-![Página inicial da aplicação](./docs/page.png)
-
-### Página da aplicação - Modo Escuro
-![Página inicial da aplicação](./docs/page-dark.png)
-
-### Pagina de usuário do Github
-![Página inicial da aplicação](./docs/github.png)
-
-## :hammer: Instalação
-```bash
-# Clone este repositório
-$ git clone https://github.com/rbmelolima/UI-Clone-Github
-
-# Entre na pasta raiz
-$ cd UI-Clone-Github
-
 # Instale as dependências com npm ou yarn
 $ npm i
 
