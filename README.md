@@ -1,5 +1,3 @@
-![Página inicial da aplicação](./docs/page.png)
-
 ## :page_facing_up: Sobre
 O objetivo deste projeto foi replicar a página inicial do Github, consumindo a API fornecido por eles para obter os dados dos usuários de forma dinâmica e atualizada.
 
