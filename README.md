@@ -11,7 +11,8 @@ npm install
 ```
  npm run start
 ```
-```
+
+
 ## :computer: Tecnologias
 - [React](https://pt-br.reactjs.org/)
 - [Typescript](https://pt-br.reactjs.org/)
@@ -31,6 +32,6 @@ npm install
 ## :construction: Próximas features
 - [ ] Utiliza a API do Github em Graphql
 - [ ] Utilizar SWR
- ```
+ 
 ## :link: Referências
 [Recriando interface do Github com ReactJS | UI Clone](https://www.youtube.com/watch?v=iLEbGQXsg3k)
