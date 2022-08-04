@@ -4,10 +4,12 @@
 O objetivo deste projeto foi replicar a página inicial do Github, consumindo a API fornecido por eles para obter os dados dos usuários de forma dinâmica e atualizada.
 
 # Instale as dependências com npm ou yarn
-$ npm install
-
+```
+npm install
+```
 # Inicie a aplicação
-$ npm run start
+```
+ npm run start
 ```
 ```
 ## :computer: Tecnologias
